@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/contentModel.xml
+/projectSettingsUpdater.xml
+/.idea.holaMundo.iml
+# Datasource local storage ignored files
+/../../../../../../../../../../../:\users\mario.ortega\Documents\Workspaces-courses\curso-netcore\fundamentosNetCore\holaMundo\.idea\.idea.holaMundo.dir\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
